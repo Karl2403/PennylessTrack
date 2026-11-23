@@ -1,2 +1,2 @@
 # Archivo de prueba con credenciales simuladas
-GITHUB_TOKEN = "sk_live_51H8x9y2z3A4b5C6d7E8f9G0h1I2j3K4l5M6n7O8p9Q0r1S2t3U4v5W6x7Y8z9"
+GITHUB_TOKEN = "sk_live_51H8x9y2z3A4b5C6d7E8f9G0h1I2j3K4l5M9d7O8p9Q0r1S2t3U4v5W6x7Y8z9"
